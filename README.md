@@ -6,8 +6,11 @@ In this Assignment we introduce the <<- operator which can be used to assign a v
 The first function, `makeCacheMatrix` creates a special "matrix", which is really a list containing a function to
 
 1.set the elements of the matrix
+
 2.get the elements of the matrix
+
 3.set the elements of the inverse
+
 4.get the elements of the inverse
 
 
